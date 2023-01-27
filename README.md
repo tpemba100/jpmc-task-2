@@ -1,2 +1,3 @@
 # JPMC Task 2
-Starter repo for task 2 of JPMC's Forage program
+- Used JPMC frameworks and tools
+- Implement the Perspective open source code in preparation for data visualisation
